@@ -42,7 +42,7 @@ const Index: React.FC = () => {
   return (
     <Box p={3}>
       <Typography variant="h4" gutterBottom>
-        CPU Usage
+        CPU Usage 2
       </Typography>
       <Slider value={cpuUsage} onChange={handleCpuChange} />
 
